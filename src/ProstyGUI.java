@@ -14,5 +14,6 @@ public class ProstyGUI {
         //Zmiany w pliku
 
         JButton przycisk1 = new JButton("zmiana");
+        //Tetst
     }
 }
