@@ -11,5 +11,8 @@ public class ProstyGUI {
         ramka.getContentPane().add(przycisk);
         ramka.setSize(300,300);
         ramka.setVisible(true);
+        //Zmiany w pliku
+
+        JButton przycisk1 = new JButton("zmiana");
     }
 }
